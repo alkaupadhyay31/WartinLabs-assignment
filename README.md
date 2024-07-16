@@ -7,8 +7,8 @@
 
 This repository contains manual and automated test cases for the Tutorial Ninja e-commerce application, which focuses on laptops and phones. The test cases cover the following functionalities:
 
-User Registration
-User Login
+User Registration,  
+ User Login,
 Product Search
 
 ## Manual Test Cases
