@@ -1,4 +1,4 @@
-### Tutorial Ninja E-commerce Application
+## Tutorial Ninja E-commerce Application
 
 ![image](https://github.com/user-attachments/assets/c383cf26-4f25-42b8-8f2c-c9cdaf65e873)
 
@@ -19,8 +19,4 @@ Manual test cases are documented in detail, covering various scenarios for regis
 
 Automated test cases are implemented using Selenium framework.
 
-## Prerequisites
-Good in at least one programming language
-Maven
-Selenium WebDriver
-TestNG
+
